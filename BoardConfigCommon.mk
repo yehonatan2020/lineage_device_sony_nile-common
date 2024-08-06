@@ -235,3 +235,5 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit from the proprietary version
 -include vendor/sony/nile-common/BoardConfigVendor.mk
+
+include device/sony/nile-common/BoardConfigEvolution.mk
